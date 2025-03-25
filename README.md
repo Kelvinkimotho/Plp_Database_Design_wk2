@@ -22,15 +22,20 @@
 ---
 ## 📚 Assignment Questions    
 
-1. Write an SQL query to retrieve the **checkNumber**, **paymentDate**, and **amount** from the **payments** table.  
+1. Write an SQL query to retrieve the **checkNumber**, **paymentDate**, and **amount** from the **payments** table.
+   ![query1](query1_test.png) 
 
-2. Write an SQL query to retrieve the **orderDate**, **requiredDate**, and **status** of orders that are currently 'In Process' from the **orders** table. Sort the results in **descending** order of **orderDate**
+3. Write an SQL query to retrieve the **orderDate**, **requiredDate**, and **status** of orders that are currently 'In Process' from the **orders** table. Sort the results in **descending** order of **orderDate**
+    ![query2](query2_test.png) 
 
-3. Write a query to display the **firstName**, **lastName**, and **email** of employees whose job title is 'Sales Rep' and order them in **descending** order of **employeeNumber**.  
+5. Write a query to display the **firstName**, **lastName**, and **email** of employees whose job title is 'Sales Rep' and order them in **descending** order of **employeeNumber**.
+    ![query3](query3_test.png)  
 
-4. Write a query to retrieve **all** the columns and records from the **offices** table.  
+7. Write a query to retrieve **all** the columns and records from the **offices** table.
+    ![query4](query4_test.png) 
 
-5. Write a query to fetch the **productName** and **quantityInStock** from the **products** table. Sort the results in ascending order of **buyPrice** and limit the output to **5** records.  
+9. Write a query to fetch the **productName** and **quantityInStock** from the **products** table. Sort the results in ascending order of **buyPrice** and limit the output to **5** records.
+     ![query5](query5_test.png) 
    
 ---
 Good luck 🚀
