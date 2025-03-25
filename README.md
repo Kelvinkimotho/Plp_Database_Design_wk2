@@ -35,7 +35,7 @@
     ![query4](query4_test.png) 
 
 9. Write a query to fetch the **productName** and **quantityInStock** from the **products** table. Sort the results in ascending order of **buyPrice** and limit the output to **5** records.
-     ![query5](query5_test.png) 
+     ![query5](query5_Test.png) 
    
 ---
 Good luck 🚀
